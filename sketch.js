@@ -41,12 +41,12 @@ function setup () {
     }
 
     makeText("akas(h)", 1, -60, 100);
+    makeText("production demos", 2, -109, 180);
 
-   // let a = createA("https://www.dropbox.com/s/u0bdwmkjmqld9l2/dbx-supporting-distributed-work.gif?dl=0", 'p5*js');
-   // a.position(25, 35);
+   let a = createA("https://www.dropbox.com/scl/fo/mlw7yr4phoktycxjhan40/AHeBFZV19VGKbnv3glBHQ4Y&dl=0", "full access here");
+   a.position(screen.width / 2 - 68 , 245);
     
 
-  
 }
 
 
